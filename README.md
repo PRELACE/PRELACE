@@ -1,71 +1,104 @@
-### Hey Dev! I'm glad that you visited me 😄
+<style>
+  .intro {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .highlight {
+    color: #ff5733;
+    font-weight: bold;
+  }
+  
+  .icons {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+  }
+  
+  .icon {
+    margin: 10px;
+  }
+  
+  .stats-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 20px 0;
+  }
+  
+  .stats-container img {
+    border-radius: 10px;
+    margin: 10px;
+  }
+  
+  .facts {
+    text-align: left;
+    margin: 0 auto;
+    max-width: 800px;
+    font-size: 16px;
+  }
+  
+  .social-links {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .social-links a {
+    margin: 0 10px;
+    text-decoration: none;
+  }
+</style>
 
-<div align="center">
-  <a href="https://github.com/shravanatirtha">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shravanatirtha&theme=darcula&show_icons=true" />
-  </a>
-  <a href="https://github.com/shravanatirtha">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shravanatirtha&theme=darcula" />
-  </a>
-  <br>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" />&nbsp;My Zone
+<div class="intro">
+  <h1>👋 ¡Hola, soy <span class="highlight">Juan Antonio de la Rosa Ramírez</span>!</h1>
+  <p>Estudiante de Ingeniería de Sistemas y apasionado por la Ciberseguridad</p>
+  <p>Desarrollador Full Stack con amor por la tecnología y la seguridad</p>
 </div>
 
-<div align="center">
-  <p align="center">
-    <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-    <code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-    <code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-    <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-    <code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-    <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-    <code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-    <code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
-    <code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
-    <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-  </p>
+<div class="icons">
+  <img class="icon" height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java">
+  <img class="icon" height="50" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Golang">
+  <img class="icon" height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel">
+  <img class="icon" height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django">
+  <img class="icon" height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React">
+  <img class="icon" height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Node.js">
+  <img class="icon" height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL">
+  <img class="icon" height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="Linux">
+  <img class="icon" height="50" src="https://www.vectorlogo.zone/logos/azure/azure-ar21.svg" alt="Azure">
+  <img class="icon" height="50" src="https://www.vectorlogo.zone/logos/html5/html5-ar21.svg" alt="HTML5">
+  <img class="icon" height="50" src="https://www.vectorlogo.zone/logos/css3/css3-ar21.svg" alt="CSS3">
+  <img class="icon" height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="TypeScript">
+  <img class="icon" height="50" src="https://www.vectorlogo.zone/logos/bootstrap/bootstrap-ar21.svg" alt="Bootstrap">
 </div>
 
-<div align="center">
+<div class="stats-container">
   <a href="https://github.com/shravanatirtha">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanatirtha&langs_count=6)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=shravanatirtha&theme=darcula&show_icons=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/shravanatirtha">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shravanatirtha" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shravanatirtha&theme=darcula" alt="Streak Stats" />
   </a>
 </div>
 
 ### Facts about me:
-👧 She/Her  
-🍚 Vegan Geek  
-💻 Java Programmer  
-🔄 Routine: Eat - Sleep - Code - Repeat  
-😆 Fun fact: I CODE  
-❤️ Food & Code  
-📜 Google DSC Lead of KIT and Microsoft Learn Student Ambassador  
-💬 Grab coffee and let's talk about technology and lifestyle  
-📝 Favourite Quote: Either I could watch it happen or be a part of it!  
-⚡ Belief: There are only 10 people in the world, those who know binary and those who don't  
-📫 Reach me at ping@shravanatirtha.com  
+- 💻 Full Stack Developer with experience in Golang, PHP, C#, and more
+- 🔒 Aspiring Cybersecurity Expert with skills in network security and Linux administration
+- 💡 Always excited to explore new technologies and frameworks
+- 🎵 Music and coffee enthusiast: because coding without them is unimaginable
+- 📝 Favorite Quote: "Either I could watch it happen or be a part of it!"
+- 🌐 Reach me at: <span class="highlight">ping@shravanatirtha.com</span>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/shravanatirtha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/tirthashravana" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.facebook.com/shravanatirtha" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<div class="social-links">
+  <a href="https://www.linkedin.com/in/shravanatirtha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/tirthashravana" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.facebook.com/shravanatirtha" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
 </div>
-
-------
-
-### About Me
-👋 Hola, soy Diego, un apasionado desarrollador de software amante de la tecnología, la seguridad, la música y, por supuesto, ¡el café! Como Full Stack Developer, domino un conjunto diverso de tecnologías y herramientas que van desde sistemas operativos como Windows y Linux hasta lenguajes y frameworks modernos como Go, PHP, Laravel, Buffalo Framework, C#, ASP.NET Core, y más. Trabajo con TypeScript, Bootstrap y soy experto en administración de sistemas y seguridad de redes.
-
-💡 Mis habilidades incluyen: 
-- **Desarrollo de API y microservicios** en Go.
-- **Aplicaciones web modernas** con Angular, Django y Flask.
-- **Automatización y administración** de entornos Linux.
-- **Auditoría y seguridad básica** de redes locales.
-- **Diseño visual y colaborativo** usando herramientas como Figma.
-
-Siempre estoy buscando nuevas formas de innovar y construir soluciones seguras y escalables. Si alguna vez necesitas discutir tecnología, diseño o un poco de inspiración, no dudes en conectarte.
-
-🚀 "Haciendo lo que nunca se ha hecho, porque ahí es donde está la verdadera magia de la innovación."
