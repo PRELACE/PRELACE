@@ -8,7 +8,7 @@ Juan Antonio De La Rosa Ramirez
 
 
 ## Contribution Snake 
-![snake gif](https://github.com/prelace/prelace/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/PRELACE/PRELACE/blob/output/github-contribution-grid-snake.svg)
 
 ## My Tech Stack and Tools
 
