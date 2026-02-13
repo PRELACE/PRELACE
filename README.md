@@ -4,9 +4,7 @@
   <b>Es un gusto tenerte por aquí. ¡Explora, aprende y conecta!</b>
 </p>
 
-<div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E35AQG0EjLaHzbXlw/profile-framedphoto-shrink_800_800/B4EZwuAXmyG8Ak-/0/1770298374939?e=1771603200&v=beta&t=iqC8Bkxz4fMhDEDCm_5S6fTG7lejZtDUjU7cQw22V74" alt="Mi Foto" width="200" style="border-radius: 50%;" />
-</div>
+
 
 <br>
 
