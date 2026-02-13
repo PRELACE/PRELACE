@@ -20,16 +20,7 @@
 
 
 
-## 🛠️ Herramientas y Widgets
-¡Puedes integrar widgets en tiempo real en menos de 30 segundos! Dale un vistazo a estas opciones increíbles:
 
-[Descubre todos los widgets aquí 👉](https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral)
-
-<div align="center">
-  <a href="https://ossinsight.io">
-    <img src="https://ossinsight.io/web/static/img/screenshots/homepage.gif" height="300" alt="OSSInsight Demo" />
-  </a>
-</div>
 
 ---
 
