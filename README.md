@@ -16,18 +16,9 @@
 
 - 🔭 **Actualmente trabajando en:** Proyectos de desarrollo de software y optimización de sistemas.
 - 🌱 **Aprendiendo siempre:** Nuevas tecnologías y metodologías ágiles.
-- ⚡ **Dato curioso:** Creo que los mejores problemas se resuelven con lógica y un espresso doble.
+- ⚡ **Mi enfoque:** Los problemas son oportunidades no resueltas
 
----
 
-## 📊 Mis Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</div>
-
----
 
 ## 🛠️ Herramientas y Widgets
 ¡Puedes integrar widgets en tiempo real en menos de 30 segundos! Dale un vistazo a estas opciones increíbles:
