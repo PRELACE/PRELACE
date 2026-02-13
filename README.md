@@ -8,9 +8,8 @@
 
 ## Introduction
 
-OSS Insight is a powerful tool that provides comprehensive, valuable, and trending insights into the open source world by analyzing 6+ billion rows of GitHub events data. 
+Ingeniero de sistemas computacionales, amante de la tecnologia y buen cafe
  
-[🎦 Video - OSS Insight: Easiest New Way to Analyze Open Source Software](https://www.youtube.com/watch?v=6ofDBgXh4So&t=1s)
 
 ## Embed Real-time Widget in Repo's / Personal README.md within 30s!
 
