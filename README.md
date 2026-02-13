@@ -1,19 +1,50 @@
-<h1 align="center">Holaaaa! Bienvenido a mi perfil, es un gusto tenerte por aqui </h1>
+<h1 align="center">¡Holaaaa! 👋 Bienvenido a mi perfil</h1>
+
+<p align="center">
+  <b>Es un gusto tenerte por aquí. ¡Explora, aprende y conecta!</b>
+</p>
 
 <div align="center">
-<a href="https://ossinsight.io">
-  <img src="/web/static/img/screenshots/homepage.gif" height=360
-</a>
+  <img src="http://googleusercontent.com/image_collection/image_retrieval/18220236686626130209_0" alt="Mi Foto" width="200" style="border-radius: 50%;" />
 </div>
 
-## Introduction
+<br>
 
-Ingeniero de sistemas computacionales, amante de la tecnologia y buen cafe
- 
+## 🧑‍💻 Sobre Mí
 
-## Embed Real-time Widget in Repo's / Personal README.md within 30s!
+¡Hola! Soy **Ingeniero de Sistemas Computacionales**. Me apasiona transformar ideas en soluciones digitales, siempre impulsado por la curiosidad tecnológica y, por supuesto, por una buena taza de café ☕.
 
-For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral), here are some examples:
+- 🔭 **Actualmente trabajando en:** Proyectos de desarrollo de software y optimización de sistemas.
+- 🌱 **Aprendiendo siempre:** Nuevas tecnologías y metodologías ágiles.
+- ⚡ **Dato curioso:** Creo que los mejores problemas se resuelven con lógica y un espresso doble.
+
+---
+
+## 📊 Mis Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical" alt="Top Languages" height="150" />
+</div>
+
+---
+
+## 🛠️ Herramientas y Widgets
+¡Puedes integrar widgets en tiempo real en menos de 30 segundos! Dale un vistazo a estas opciones increíbles:
+
+[Descubre todos los widgets aquí 👉](https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral)
+
+<div align="center">
+  <a href="https://ossinsight.io">
+    <img src="https://ossinsight.io/web/static/img/screenshots/homepage.gif" height="300" alt="OSSInsight Demo" />
+  </a>
+</div>
+
+---
+
+<p align="center">
+  <i>"El código es poesía, y el café es el combustible."</i>
+</p>
 
 
 | Repository Activity Trends | Collaborative Productivity - Last 28 days |
