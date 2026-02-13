@@ -1,1 +1,82 @@
-<!--horizontal divider(gradiant)--> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!--h1 without bottom border--> <div id="user-content-toc"> <ul align="center"> <summary><h1 style="display: inline-block">Hi 👋, I'm Juan Antonio De La Rosa Ramirez</h1></summary> </ul> </div> <!--- snake --> <div align="center"> <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" /> </div> <!--h2 without bottom border--> <div id="user-content-toc"> <ul align="center"> <summary><h2 style="display: inline-block">Curiosity Drives My Passion for Tech</h2></summary> </ul> </div> <!--Intro start--> 🔭 I’m currently working as a Developer and exploring innovative solutions in tech. 🌱 I’m currently studying System Engineering and pursuing a specialization in Cybersecurity. 👨‍💻 I’m proficient in technologies like Docker, AWS, React, Node.js, and more. ☁️ I have a strong interest in cloud computing and DevOps. 💬 Ask me about Web Development, Cybersecurity practices, and cloud solutions. 📫 Reach me at juanantonio.rosa@example.com for any queries or collaborations. <!--Intro end--> <!--- stats & Trophy (start) --> <p align="center"> <!--- stats (start) --> <table align="center"> <tr border="none"> <td width="50%" align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=juanantonio&theme=dark&show_icons=true&count_private=true" /> <br></br> <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=juanantonio&theme=dark&hide_border=false" /> </td> <td width="50%" align="center"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=juanantonio&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/> </td> </tr> </table> <!--- stats (end) --> <!--- trophy (start) --> <div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source"> <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=juanantonio&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" /> </a> </div> <!--- trophy (end) --> </p> <!--h1 without bottom border--> <div id="user-content-toc"> <ul align="center"> <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary> </ul> </div> <!--tech stack icons--> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,aws,docker,linux,nginx,git,github,python,java,mysql,postgres,express,vscode,figma,kubernetes&perline=10" /> </a> </p> <!-- Connect with me --> <!--h2 without bottom border--> <div id="user-content-toc"> <ul align="center"> <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary> </ul> </div> <!--icons and links--> <p align="center"> <a href="https://www.linkedin.com/in/juanantonio" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" /></a> <a href="https://twitter.com/juanantonio" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="Twitter" height="50" width="50" /></a> <a href="https://www.instagram.com/juan.antonio" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Instagram" height="50" width="50" /></a> <a href="https://hashnode.com/@juanantonio" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="Hashnode" height="50" width="50" /></a> <a href="https://discordapp.com/users/juanantonio" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="Discord" height="50" width="50" /></a> </p> <!--profile visit count--> <div align="center"> [![](https://visitcount.itsvg.in/api?id=juanantonio&icon=3&color=6)](https://visitcount.itsvg.in) </div> <!--horizontal divider(gradiant)--> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center">Hello Guys! We Are OSSInsight! 👁️</h1>
+
+<div align="center">
+<a href="https://ossinsight.io">
+  <img src="/web/static/img/screenshots/homepage.gif" height=360
+</a>
+</div>
+
+<h4 align="center">
+  <b><a href="https://ossinsight.io/explore/">Data Explorer</a></b>
+  •
+  <b><a href="https://ossinsight.io/collections/open-source-database">Repo Rankings</a></b>
+  •
+  <b><a href="https://ossinsight.io/analyze/Ovilia">Developer Analytics</a></b>
+  •
+  <a href="https://ossinsight.io/analyze/pingcap/tidb">Repo Analytics</a>
+  •
+  <a href="https://ossinsight.io/collections/open-source-database">Collections</a>
+  •
+  <a href="https://ossinsight.io/docs/workshop">Workshop</a>
+  •
+  <a href="https://ossinsight.io/blog">Blog</a>
+  •
+  <a href="https://ossinsight.io/docs">API</a>
+  •
+  <a href="https://twitter.com/OSSInsight">Twitter</a>
+</h3>
+
+## Introduction
+
+OSS Insight is a powerful tool that provides comprehensive, valuable, and trending insights into the open source world by analyzing 6+ billion rows of GitHub events data. 
+ 
+[🎦 Video - OSS Insight: Easiest New Way to Analyze Open Source Software](https://www.youtube.com/watch?v=6ofDBgXh4So&t=1s)
+
+## Embed Real-time Widget in Repo's / Personal README.md within 30s!
+
+For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral), here are some examples:
+
+
+| Repository Activity Trends | Collaborative Productivity - Last 28 days |
+| ----------- | ----------- |
+|<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" />|
+
+| Repository Performance Stats - Last 28 days | Active Contributors - Last 28 days |
+| ----------- | ----------- |
+|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&limit=100&image_size=auto"/>|
+
+| Star Geographic Distribution | Star History |
+| ----------- | ----------- |
+|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&image_size=auto" />|
+
+| Company Affiliation | Lines of Code Changes |
+| ----------- | ----------- |
+|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-company/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />|
+
+| Pull Request Size | Pull Request Lifecycle |
+| ----------- | ----------- |
+|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=41986369&image_size=auto" />|
+
+| Currently Working On - Last 28 days | Top Active Contributors - Last 28 Days |
+| ----------- | ----------- |
+|<img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=12960671&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&image_size=auto" />|
+
+| Repository Annual Ranking | Find More |
+| ----------- | ----------- |
+|<img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&collection_id=2&image_size=auto" />|<a href="https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral">Visit our website</a >|
+
+## Contact us
+
+<a href="https://twitter.com/OSSInsight" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+
+<a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
+<img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+
+<a href="mailto:ossinsight@pingcap.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+
+## Sponsors
+<a href="https://en.pingcap.com/tidb-cloud/?utm_source=ossinsight&utm_medium=referral">
+<img src="/web/static/img/tidb-cloud-logo-w.png" height=50 />
+</a>
